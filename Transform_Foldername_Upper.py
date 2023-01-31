@@ -6,7 +6,7 @@ and replace spaces with underscores. You can use this dataframe to extract
 the directory names into Snowflake.
 @author: cearce
 """
-f
+
 import pandas as pd 
 import boto3
 
